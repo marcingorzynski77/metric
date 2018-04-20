@@ -1,0 +1,8 @@
+C:\VSTFS\Module 2\After\Sample.6.Headers\Server2\bin\Debug\Server2.exe.config
+C:\VSTFS\Module 2\After\Sample.6.Headers\Server2\bin\Debug\Server2.exe
+C:\VSTFS\Module 2\After\Sample.6.Headers\Server2\bin\Debug\Server2.pdb
+C:\VSTFS\Module 2\After\Sample.6.Headers\Server2\bin\Debug\RabbitMQ.Client.dll
+C:\VSTFS\Module 2\After\Sample.6.Headers\Server2\bin\Debug\RabbitMQ.Client.xml
+C:\VSTFS\Module 2\After\Sample.6.Headers\Server2\obj\Debug\Server2.exe
+C:\VSTFS\Module 2\After\Sample.6.Headers\Server2\obj\Debug\Server2.pdb
+C:\VSTFS\Module 2\After\Sample.6.Headers\Server2\obj\Debug\Server2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\bin\Debug\WinClient.exe.config
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\bin\Debug\WinClient.exe
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\bin\Debug\WinClient.pdb
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\bin\Debug\RabbitMQ.Client.dll
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\bin\Debug\RabbitMQ.Client.xml
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\obj\Debug\WinClient.csprojResolveAssemblyReference.cache
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\obj\Debug\WinClient.Form1.resources
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\obj\Debug\WinClient.Properties.Resources.resources
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\obj\Debug\WinClient.csproj.GenerateResource.Cache
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\obj\Debug\WinClient.exe
+C:\VSTFS\Module 2\After\Sample.5.Topic\WinClient\obj\Debug\WinClient.pdb

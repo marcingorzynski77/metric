@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{74437CCB-80AB-488C-9789-E7E830449DF0}"
+	ProjectSection(SolutionItems) = preProject
+		RabbitMQ.Client.dll = RabbitMQ.Client.dll
+		SetupRabbitMQ.bat = SetupRabbitMQ.bat
+		SetupRabbitMQ.ps1 = SetupRabbitMQ.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

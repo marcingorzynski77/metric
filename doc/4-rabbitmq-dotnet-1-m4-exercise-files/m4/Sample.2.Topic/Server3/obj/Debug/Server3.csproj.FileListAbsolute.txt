@@ -1,0 +1,7 @@
+C:\VSTFS\Module 2\After\Sample.5.Topic\Server3\bin\Debug\Server3.exe.config
+C:\VSTFS\Module 2\After\Sample.5.Topic\Server3\bin\Debug\Server3.exe
+C:\VSTFS\Module 2\After\Sample.5.Topic\Server3\bin\Debug\Server3.pdb
+C:\VSTFS\Module 2\After\Sample.5.Topic\Server3\bin\Debug\RabbitMQ.Client.dll
+C:\VSTFS\Module 2\After\Sample.5.Topic\Server3\bin\Debug\RabbitMQ.Client.xml
+C:\VSTFS\Module 2\After\Sample.5.Topic\Server3\obj\Debug\Server3.exe
+C:\VSTFS\Module 2\After\Sample.5.Topic\Server3\obj\Debug\Server3.pdb
