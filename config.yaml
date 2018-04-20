@@ -1,0 +1,7 @@
+  app_settings:
+    flask_server_name: localhost:8888
+    flask_debug: true
+    rest_plus_swagger_ui_doc_expansion: list
+    rest_plus_validate: true
+    rest_plus_mask_swagger: false
+    rest_plus_error_404_help: false
