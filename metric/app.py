@@ -3,7 +3,7 @@ import os
 from flask import Flask, Blueprint
 from metrics.metric.configuration import Configuration
 from metrics.metric.endpoints.api import api as metric_namespace
-from metrics.metric.restplus import api
+from metrics.metric.restplus import api_
 
 
 app = Flask(__name__)

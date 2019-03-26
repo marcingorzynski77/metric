@@ -1,4 +1,3 @@
-Business Application Delivery
 ========
 More tests
 
